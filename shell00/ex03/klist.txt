@@ -1,0 +1,5 @@
+Credentials cache: API:15BD570D-C0D1-46DA-96E5-5939480AD31E
+        Principal: jroux-fo@42.FR
+
+  Issued                Expires               Principal
+Jun 29 15:19:37 2021  Jul  6 15:19:37 2021  krbtgt/42.FR@42.FR
